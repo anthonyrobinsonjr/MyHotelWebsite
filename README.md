@@ -5,7 +5,7 @@ Table of contents
 
 Demo Download Copyright and license
 
-For a demo, check out http://mycollege.comlu.com/MyCollege/!
+For a demo, check out http://www.myhotelproject.esy.es/!
 
 What's included
 
